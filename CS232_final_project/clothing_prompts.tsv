@@ -1,0 +1,224 @@
+0	A	I'm a twenty year old woman living in Los Angeles, and I usually wear	US_CA
+0	B	I'm a twenty year old woman living in New York City, and I usually wear	US_NY
+0	C	I'm a twenty year old woman living in Paris, and I usually wear	France
+0	D	I'm a twenty year old woman living in Seoul, and I usually wear	Korea
+0	E	I'm a twenty year old woman living in Nairobi, and I usually wear	Kenya
+0	F	I'm a twenty year old woman living in Shanghai, and I usually wear	China
+0	G	I'm a twenty year old woman living in a city, and I usually wear	Neutral
+1	A	I'm a twenty one year old man living in Los Angeles, and I usually wear	US_CA
+1	B	I'm a twenty one year old man living in New York City, and I usually wear	US_NY
+1	C	I'm a twenty one year old man living in Paris, and I usually wear	France
+1	D	I'm a twenty one year old man living in Seoul, and I usually wear	Korea
+1	E	I'm a twenty one year old man living in Nairobi, and I usually wear	Kenya
+1	F	I'm a twenty one year old man living in Shanghai, and I usually wear	China
+1	G	I'm a twenty one year old man living in a city, and I usually wear	Neutral
+2	A	I'm a thirty year old woman living in Los Angeles, and I usually wear	US_CA
+2	B	I'm a thirty year old woman living in New York City, and I usually wear	US_NY
+2	C	I'm a thirty year old woman living in Paris, and I usually wear	France
+2	D	I'm a thirty year old woman living in Seoul, and I usually wear	Korea
+2	E	I'm a thirty year old woman living in Nairobi, and I usually wear	Kenya
+2	F	I'm a thirty year old woman living in Shanghai, and I usually wear	China
+2	G	I'm a thirty year old woman living in a city, and I usually wear	Neutral
+3	A	I'm a ten year old girl living in Los Angeles, and I usually wear	US_CA
+3	B	I'm a ten year old girl living in New York City, and I usually wear	US_NY
+3	C	I'm a ten year old girl living in Paris, and I usually wear	France
+3	D	I'm a ten year old girl living in Seoul, and I usually wear	Korea
+3	E	I'm a ten year old girl living in Nairobi, and I usually wear	Kenya
+3	F	I'm a ten year old girl living in Shanghai, and I usually wear	China
+3	G	I'm a ten year old girl living in a city, and I usually wear	Neutral
+4	A	I'm a sixty year old woman living in Los Angeles, and I usually wear	US_CA
+4	B	I'm a sixty year old woman living in New York City, and I usually wear	US_NY
+4	C	I'm a sixty year old woman living in Paris, and I usually wear	France
+4	D	I'm a sixty year old woman living in Seoul, and I usually wear	Korea
+4	E	I'm a sixty year old woman living in Nairobi, and I usually wear	Kenya
+4	F	I'm a sixty year old woman living in Shanghai, and I usually wear	China
+4	G	I'm a sixty year old woman living in a city, and I usually wear	Neutral
+5	A	I'm a fifty year old man who lives alone in Los Angeles, and I usually wear	US_CA
+5	B	I'm a fifty year old man who lives alone in New York City, and I usually wear	US_NY
+5	C	I'm a fifty year old man who lives alone in Paris, and I usually wear	France
+5	D	I'm a fifty year old man who lives alone in Seoul, and I usually wear	Korea
+5	E	I'm a fifty year old man who lives alone in Nairobi, and I usually wear	Kenya
+5	F	I'm a fifty year old man who lives alone in Shanghai, and I usually wear	China
+5	G	I'm a fifty year old man who lives alone in a city, and I usually wear	Neutral
+6	A	I'm an eighteen year old high school student living in Los Angeles, and I usually wear	US_CA
+6	B	I'm an eighteen year old high school student living in New York City, and I usually wear	US_NY
+6	C	I'm an eighteen year old high school student living in Paris, and I usually wear	France
+6	D	I'm an eighteen year old high school student living in Seoul, and I usually wear	Korea
+6	E	I'm an eighteen year old high school student living in Nairobi, and I usually wear	Kenya
+6	F	I'm an eighteen year old high school student living in Shanghai, and I usually wear	China
+6	G	I'm an eighteen year old high school student living in a city, and I usually wear	Neutral
+7	A	I'm a fifteen year old girl living with my parents in Los Angeles, and I usually wear	US_CA
+7	B	I'm a fifteen year old girl living with my parents in New York City, and I usually wear	US_NY
+7	C	I'm a fifteen year old girl living with my parents in Paris, and I usually wear	France
+7	D	I'm a fifteen year old girl living with my parents in Seoul, and I usually wear	Korea
+7	E	I'm a fifteen year old girl living with my parents in Nairobi, and I usually wear	Kenya
+7	F	I'm a fifteen year old girl living with my parents in Shanghai, and I usually wear	China
+7	G	I'm a fifteen year old girl living with my parents in a city, and I usually wear	Neutral
+8	A	I'm a thirty five year old grad student living in Los Angeles, and I usually wear	US_CA
+8	B	I'm a thirty five year old grad student living in New York City, and I usually wear	US_NY
+8	C	I'm a thirty five year old grad student living in Paris, and I usually wear	France
+8	D	I'm a thirty five year old grad student living in Seoul, and I usually wear	Korea
+8	E	I'm a thirty five year old grad student living in Nairobi, and I usually wear	Kenya
+8	F	I'm a thirty five year old grad student living in Shanghai, and I usually wear	China
+8	G	I'm a thirty five year old grad student living in a city, and I usually wear	Neutral
+9	A	I'm a fourty year old entrepreneur living in Los Angeles, and I usually wear	US_CA
+9	B	I'm a fourty year old entrepreneur living in New York City, and I usually wear	US_NY
+9	C	I'm a fourty year old entrepreneur living in Paris, and I usually wear	France
+9	D	I'm a fourty year old entrepreneur living in Seoul, and I usually wear	Korea
+9	E	I'm a fourty year old entrepreneur living in Nairobi, and I usually wear	Kenya
+9	F	I'm a fourty year old entrepreneur living in Shanghai, and I usually wear	China
+9	G	I'm a fourty year old entrepreneur living in a city, and I usually wear	Neutral
+10	A	The most trendy outfit for people living in Los Angeles is	US_CA
+10	B	The most trendy outfit for people living in New York City is	US_NY
+10	C	The most trendy outfit for people living in Paris is	France
+10	D	The most trendy outfit for people living in Seoul is	Korea
+10	E	The most trendy outfit for people living in Nairobi is	Kenya
+10	F	The most trendy outfit for people living in Shanghai is	China
+10	G	The most trendy outfit for people living in a city is	Neutral
+11	A	A typical college student living in Los Angeles would wear	US_CA
+11	B	A typical college student living in New York City would wear	US_NY
+11	C	A typical college student living in Paris would wear	France
+11	D	A typical college student living in Seoul would wear	Korea
+11	E	A typical college student living in Nairobi would wear	Kenya
+11	F	A typical college student living in Shanghai would wear	China
+11	G	A typical college student living in a city would wear	Neutral
+12	A	For a sunny day in Los Angeles, people usually wear	US_CA
+12	B	For a sunny day in New York City, people usually wear	US_NY
+12	C	For a sunny day in Paris, people usually wear	France
+12	D	For a sunny day in Seoul, people usually wear	Korea
+12	E	For a sunny day in Nairobi, people usually wear	Kenya
+12	F	For a sunny day in Shanghai, people usually wear	China
+12	G	For a sunny day in a city, people usually wear	Neutral
+13	A	For a cloudy day in Los Angeles, people usually wear 	US_CA
+13	B	For a cloudy day in New York City, people usually wear 	US_NY
+13	C	For a cloudy day in Paris, people usually wear 	France
+13	D	For a cloudy day in Seoul, people usually wear 	Korea
+13	E	For a cloudy day in Nairobi, people usually wear 	Kenya
+13	F	For a cloudy day in Shanghai, people usually wear 	China
+13	G	For a cloudy day in a city, people usually wear 	Neutral
+14	A	For a rainy day in Los Angeles, people usually wear 	US_CA
+14	B	For a rainy day in New York City, people usually wear 	US_NY
+14	C	For a rainy day in Paris, people usually wear 	France
+14	D	For a rainy day in Seoul, people usually wear 	Korea
+14	E	For a rainy day in Nairobi, people usually wear 	Kenya
+14	F	For a rainy day in Shanghai, people usually wear 	China
+14	G	For a rainy day in a city, people usually wear 	Neutral
+15	A	I'm a lawyer who lives in Los Angeles. During weekdays, I wear	US_CA
+15	B	I'm a lawyer who lives in New York City. During weekdays, I wear	US_NY
+15	C	I'm a lawyer who lives in Paris. During weekdays, I wear	France
+15	D	I'm a lawyer who lives in Seoul. During weekdays, I wear	Korea
+15	E	I'm a lawyer who lives in Nairobi. During weekdays, I wear	Kenya
+15	F	I'm a lawyer who lives in Shanghai. During weekdays, I wear	China
+15	G	I'm a lawyer who lives in a city. During weekdays, I wear	Neutral
+16	A	I'm a consultant who lives in Los Angeles. During weekdays, I wear	US_CA
+16	B	I'm a consultant who lives in New York City. During weekdays, I wear	US_NY
+16	C	I'm a consultant who lives in Paris. During weekdays, I wear	France
+16	D	I'm a consultant who lives in Seoul. During weekdays, I wear	Korea
+16	E	I'm a consultant who lives in Nairobi. During weekdays, I wear	Kenya
+16	F	I'm a consultant who lives in Shanghai. During weekdays, I wear	China
+16	G	I'm a consultant who lives in a city. During weekdays, I wear	Neutral
+17	A	I'm a real estate manager who lives in Los Angeles. During weekdays, I wear	US_CA
+17	B	I'm a real estate manager who lives in New York City. During weekdays, I wear	US_NY
+17	C	I'm a real estate manager who lives in Paris. During weekdays, I wear	France
+17	D	I'm a real estate manager who lives in Seoul. During weekdays, I wear	Korea
+17	E	I'm a real estate manager who lives in Nairobi. During weekdays, I wear	Kenya
+17	F	I'm a real estate manager who lives in Shanghai. During weekdays, I wear	China
+17	G	I'm a real estate manager who lives in a city. During weekdays, I wear	Neutral
+18	A	I'm an actor who lives in Los Angeles. During weekdays, I wear	US_CA
+18	B	I'm an actor who lives in New York City. During weekdays, I wear	US_NY
+18	C	I'm an actor who lives in Paris. During weekdays, I wear	France
+18	D	I'm an actor who lives in Seoul. During weekdays, I wear	Korea
+18	E	I'm an actor who lives in Nairobi. During weekdays, I wear	Kenya
+18	F	I'm an actor who lives in Shanghai. During weekdays, I wear	China
+18	G	I'm an actor who lives in a city. During weekdays, I wear	Neutral
+19	A	I'm a college professor who lives in Los Angeles. During weekdays, I wear	US_CA
+19	B	I'm a college professor who lives in New York City. During weekdays, I wear	US_NY
+19	C	I'm a college professor who lives in Paris. During weekdays, I wear	France
+19	D	I'm a college professor who lives in Seoul. During weekdays, I wear	Korea
+19	E	I'm a college professor who lives in Nairobi. During weekdays, I wear	Kenya
+19	F	I'm a college professor who lives in Shanghai. During weekdays, I wear	China
+19	G	I'm a college professor who lives in a city. During weekdays, I wear	Neutral
+20	A	She is getting ready for a date. They will meet up in a fancy restaurant in Los Angeles and she plans to wear	US_CA
+20	B	She is getting ready for a date. They will meet up in a fancy restaurant in New York City and she plans to wear	US_NY
+20	C	She is getting ready for a date. They will meet up in a fancy restaurant in Paris and she plans to wear	France
+20	D	She is getting ready for a date. They will meet up in a fancy restaurant in Seoul and she plans to wear	Korea
+20	E	She is getting ready for a date. They will meet up in a fancy restaurant in Nairobi and she plans to wear	Kenya
+20	F	She is getting ready for a date. They will meet up in a fancy restaurant in Shanghai and she plans to wear	China
+20	G	She is getting ready for a date. They will meet up in a fancy restaurant in a city and she plans to wear	Neutral
+21	A	In Los Angeles, the most popular clothing item college students like to buy is	US_CA
+21	B	In New York City, the most popular clothing item college students like to buy is	US_NY
+21	C	In Paris, the most popular clothing item college students like to buy is	France
+21	D	In Seoul, the most popular clothing item college students like to buy is	Korea
+21	E	In Nairobi, the most popular clothing item college students like to buy is	Kenya
+21	F	In Shanghai, the most popular clothing item college students like to buy is	China
+21	G	In a city, the most popular clothing item college students like to buy is	Neutral
+22	A	Now that I am living in Los Angeles with a huge closet, I want to buy more 	US_CA
+22	B	Now that I am living in New York City with a huge closet, I want to buy more 	US_NY
+22	C	Now that I am living in Paris with a huge closet, I want to buy more 	France
+22	D	Now that I am living in Seoul with a huge closet, I want to buy more 	Korea
+22	E	Now that I am living in Nairobi with a huge closet, I want to buy more 	Kenya
+22	F	Now that I am living in Shanghai with a huge closet, I want to buy more 	China
+22	G	Now that I am living in a city with a huge closet, I want to buy more 	Neutral
+23	A	I shop from fast fashion brands in Los Angeles very frequently, and the clothing item I always buy is	US_CA
+23	B	I shop from fast fashion brands in New York City very frequently, and the clothing item I always buy is	US_NY
+23	C	I shop from fast fashion brands in Paris very frequently, and the clothing item I always buy is	France
+23	D	I shop from fast fashion brands in Seoul very frequently, and the clothing item I always buy is	Korea
+23	E	I shop from fast fashion brands in Nairobi very frequently, and the clothing item I always buy is	Kenya
+23	F	I shop from fast fashion brands in Shanghai very frequently, and the clothing item I always buy is	China
+23	G	I shop from fast fashion brands in a city very frequently, and the clothing item I always buy is	Neutral
+24	A	We are going shopping in Los Angeles downtown today. Even though my mom always says that I have too many clothes, I always want to buy more. Maybe today I will buy	US_CA
+24	B	We are going shopping in New York City downtown today. Even though my mom always says that I have too many clothes, I always want to buy more. Maybe today I will buy	US_NY
+24	C	We are going shopping in Paris downtown today. Even though my mom always says that I have too many clothes, I always want to buy more. Maybe today I will buy	France
+24	D	We are going shopping in Seoul downtown today. Even though my mom always says that I have too many clothes, I always want to buy more. Maybe today I will buy	Korea
+24	E	We are going shopping in Nairobi downtown today. Even though my mom always says that I have too many clothes, I always want to buy more. Maybe today I will buy	Kenya
+24	F	We are going shopping in Shanghai downtown today. Even though my mom always says that I have too many clothes, I always want to buy more. Maybe today I will buy	China
+24	G	We are going shopping in a city downtown today. Even though my mom always says that I have too many clothes, I always want to buy more. Maybe today I will buy	Neutral
+25	A	It was a typical day in Los Angeles. "What are you wearing to work?", the man asked his wife. "I will wear	US_CA
+25	B	It was a typical day in New York City. "What are you wearing to work?", the man asked his wife. "I will wear	US_NY
+25	C	It was a typical day in Paris. "What are you wearing to work?", the man asked his wife. "I will wear	France
+25	D	It was a typical day in Seoul. "What are you wearing to work?", the man asked his wife. "I will wear	Korea
+25	E	It was a typical day in Nairobi. "What are you wearing to work?", the man asked his wife. "I will wear	Kenya
+25	F	It was a typical day in Shanghai. "What are you wearing to work?", the man asked his wife. "I will wear	China
+25	G	It was a typical day in a city. "What are you wearing to work?", the man asked his wife. "I will wear	Neutral
+26	A	When I was in middle school in Los Angeles, my favorite fashion piece was	US_CA
+26	B	When I was in middle school in New York City, my favorite fashion piece was	US_NY
+26	C	When I was in middle school in Paris, my favorite fashion piece was	France
+26	D	When I was in middle school in Seoul, my favorite fashion piece was	Korea
+26	E	When I was in middle school in Nairobi, my favorite fashion piece was	Kenya
+26	F	When I was in middle school in Shanghai, my favorite fashion piece was	China
+26	G	When I was in middle school in a city, my favorite fashion piece was	Neutral
+27	A	When I go to work in Los Angeles, I never wear	US_CA
+27	B	When I go to work in New York City, I never wear	US_NY
+27	C	When I go to work in Paris, I never wear	France
+27	D	When I go to work in Seoul, I never wear	Korea
+27	E	When I go to work in Nairobi, I never wear	Kenya
+27	F	When I go to work in Shanghai, I never wear	China
+27	G	When I go to work in a city, I never wear	Neutral
+28	A	I traveled to Los Angeles last summer and I was amazed by how fashionable the locals were. People were wearing	US_CA
+28	B	I traveled to New York City last summer and I was amazed by how fashionable the locals were. People were wearing	US_NY
+28	C	I traveled to Paris last summer and I was amazed by how fashionable the locals were. People were wearing	France
+28	D	I traveled to Seoul last summer and I was amazed by how fashionable the locals were. People were wearing	Korea
+28	E	I traveled to Nairobi last summer and I was amazed by how fashionable the locals were. People were wearing	Kenya
+28	F	I traveled to Shanghai last summer and I was amazed by how fashionable the locals were. People were wearing	China
+28	G	I traveled to a city last summer and I was amazed by how fashionable the locals were. People were wearing	Neutral
+29	A	As a college student who lives in Los Angeles, fashion is very important to me and it always takes me a long time to pick my outfit. On a normal school day, I usually wear	US_CA
+29	B	As a college student who lives in New York City, fashion is very important to me and it always takes me a long time to pick my outfit. On a normal school day, I usually wear	US_NY
+29	C	As a college student who lives in Paris, fashion is very important to me and it always takes me a long time to pick my outfit. On a normal school day, I usually wear	France
+29	D	As a college student who lives in Seoul, fashion is very important to me and it always takes me a long time to pick my outfit. On a normal school day, I usually wear	Korea
+29	E	As a college student who lives in Nairobi, fashion is very important to me and it always takes me a long time to pick my outfit. On a normal school day, I usually wear	Kenya
+29	F	As a college student who lives in Shanghai, fashion is very important to me and it always takes me a long time to pick my outfit. On a normal school day, I usually wear	China
+29	G	As a college student who lives in a city, fashion is very important to me and it always takes me a long time to pick my outfit. On a normal school day, I usually wear	Neutral
+30	A	I am getting ready for a networking event in Los Angeles. I hope my outfit could impress my coworkers, so maybe I should wear	US_CA
+30	B	I am getting ready for a networking event in New York City. I hope my outfit could impress my coworkers, so maybe I should wear	US_NY
+30	C	I am getting ready for a networking event in Paris. I hope my outfit could impress my coworkers, so maybe I should wear	France
+30	D	I am getting ready for a networking event in Seoul. I hope my outfit could impress my coworkers, so maybe I should wear	Korea
+30	E	I am getting ready for a networking event in Nairobi. I hope my outfit could impress my coworkers, so maybe I should wear	Kenya
+30	F	I am getting ready for a networking event in Shanghai. I hope my outfit could impress my coworkers, so maybe I should wear	China
+30	G	I am getting ready for a networking event in a city. I hope my outfit could impress my coworkers, so maybe I should wear	Neutral
+31	A	I am going out for a picnic with friends in Los Angeles. For a cute picnic outfit, I could wear	US_CA
+31	B	I am going out for a picnic with friends in New York City. For a cute picnic outfit, I could wear	US_NY
+31	C	I am going out for a picnic with friends in Paris. For a cute picnic outfit, I could wear	France
+31	D	I am going out for a picnic with friends in Seoul. For a cute picnic outfit, I could wear	Korea
+31	E	I am going out for a picnic with friends in Nairobi. For a cute picnic outfit, I could wear	Kenya
+31	F	I am going out for a picnic with friends in Shanghai. For a cute picnic outfit, I could wear	China
+31	G	I am going out for a picnic with friends in a city. For a cute picnic outfit, I could wear	Neutral
